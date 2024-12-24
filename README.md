@@ -2,6 +2,8 @@
 
 A Model Context Protocol (MCP) server that provides tools for interacting with Gmail and Calendar APIs. This server enables you to manage your emails and calendar events programmatically through the MCP interface.
 
+<a href="https://glama.ai/mcp/servers/egcwr79vu2"><img width="380" height="200" src="https://glama.ai/mcp/servers/egcwr79vu2/badge" alt="Google Workspace Server MCP server" /></a>
+
 ## Features
 
 ### Gmail Tools
